@@ -5,6 +5,6 @@ public class MainTest {
 
     @Test
     void testSum() {
-        assertEquals(5, Main.sum(2, 3));
+        assertEquals(333, Main.sum(111, 222));
     }
 }
